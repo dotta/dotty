@@ -14,7 +14,7 @@ object Build {
 
   projectChecks()
 
-  val scalacVersion = "2.11.5" // Do not rename, this is grepped in bin/common.
+  val scalacVersion = "2.11.8" // Do not rename, this is grepped in bin/common.
 
   val dottyOrganization = "ch.epfl.lamp"
   val dottyVersion = {
